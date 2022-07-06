@@ -1,0 +1,5 @@
+requests >= 2.24.0
+pyquery >= 1.4.1
+python-dotenv >= 0.14.0
+arrow >= 0.17.0 
+python-pushover >= 0.4
